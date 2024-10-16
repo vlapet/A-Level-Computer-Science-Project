@@ -1,0 +1,5 @@
+List of assets used
+
+[Gear_Icon.png]
+Licensed under the MIT license making it free to use and redistribute
+Link: https://www.iconfinder.com/icons/211751/gear_icon
